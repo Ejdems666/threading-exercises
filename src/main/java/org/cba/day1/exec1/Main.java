@@ -1,8 +1,8 @@
-package org.cba.exec1;
+package org.cba.day1.exec1;
 
-import org.cba.exec1.tasks.Task1;
-import org.cba.exec1.tasks.Task2;
-import org.cba.exec1.tasks.Task3;
+import org.cba.day1.exec1.tasks.Task1;
+import org.cba.day1.exec1.tasks.Task2;
+import org.cba.day1.exec1.tasks.Task3;
 
 /**
  * Created by adam on 18/09/2017.

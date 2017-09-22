@@ -1,4 +1,4 @@
-package org.cba.exec3;
+package org.cba.day3;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
@@ -9,7 +9,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-public class SequentialPinger {
+public class ParallelPinger {
     public static void main(String args[]) throws Exception {
         long startTime = System.nanoTime();
         String[] hostList = {"http://crunchify.com", "http://yahoo.com",
