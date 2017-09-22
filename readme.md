@@ -1,4 +1,4 @@
-#Day 1
+# Day 1
 
 ##exercise 1
 
@@ -17,7 +17,7 @@
 * No I don't get the right result
 * The problem is that the TurnslideCounter.incr() is not atomic. I fixed this using synchornized keyword
 
-##producer consumer
+#producer consumer
 
 * **When and why will we use Threads in our programs?:**
   * When we need to put expensive calculations to be computed in parallel, so the rest of the application isn't blocked by it, or when we want to schedule some tasks.
